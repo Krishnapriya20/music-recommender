@@ -1,0 +1,64 @@
+{
+    "ranoo": {
+        "liked": [],
+        "playlist": []
+    },
+    "Ranoo": {
+        "liked": [
+            "Roj Roj Navyane",
+            "Take Off / Zombie Dance",
+            "Strange Times",
+            "dayfly"
+        ],
+        "playlist": []
+    },
+    "MRK": {
+        "liked": []
+    },
+    "MRK ": {
+        "liked": []
+    },
+    "Happy": {
+        "liked": []
+    },
+    "Mume": {
+        "liked": [
+            "Calma - Remix"
+        ],
+        "share_token": "70d478"
+    },
+    "Hupper": {
+        "liked": [
+            "Going Bad (feat. Drake)",
+            "NASA"
+        ],
+        "share_token": "5ce005",
+        "created_at": "2026-04-24 23:21:51",
+        "actions": [
+            {
+                "user": "Hupper",
+                "action": "like",
+                "song": "Going Bad (feat. Drake)",
+                "timestamp": "2026-04-24 23:22:22"
+            },
+            {
+                "user": "Hupper",
+                "action": "like",
+                "song": "NASA",
+                "timestamp": "2026-04-24 23:22:28"
+            }
+        ]
+    },
+    "dominico": {
+        "liked": [],
+        "share_token": "5f1041",
+        "created_at": "2026-04-24 23:23:19",
+        "actions": []
+    },
+    "hoopper": {
+        "liked": [],
+        "share_token": "896a8f",
+        "created_at": "2026-04-24 23:23:38",
+        "actions": []
+    }
+}
